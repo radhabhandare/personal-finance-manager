@@ -1,0 +1,9 @@
+/* ChartsPage.css */
+.charts-page {
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
+  background: #f5f5f5;
+  min-height: 100vh;
+  text-align: center;
+}
